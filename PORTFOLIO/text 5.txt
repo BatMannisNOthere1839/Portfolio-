@@ -1,0 +1,13 @@
+# Mechanical Engineering Portfolio Website
+
+This is a simple personal portfolio site built with **HTML, CSS, and JS**.  
+You can deploy it free with **GitHub Pages**.
+
+---
+
+## 🚀 Deployment (GitHub Pages)
+1. Create a new GitHub repository (e.g. `portfolio`).
+2. Upload these 4 files (`index.html`, `style.css`, `script.js`, `README.md`) to the **root** of the repo.
+3. Go to **Settings → Pages**.
+4. Under **Branch**, select `main` (or `master`) and click **Save**.
+5. After 1–2 minutes, your site will be live at:

@@ -1,0 +1,7 @@
+---
+
+## 📂 Customization
+- Replace `"Your Name"` with your own.
+- Replace `placeholder-*.png` with screenshots of your CAD projects.
+- Add your `resume.pdf` file for the resume download button.
+- Update email links and project descriptions.
